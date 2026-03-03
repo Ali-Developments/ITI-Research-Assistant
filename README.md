@@ -2,7 +2,7 @@
 
 An AI-powered **Retrieval-Augmented Generation (RAG)** application that enables students and researchers to upload academic papers and interact with them using natural language queries.
 
-This project was developed as part of the **ITI Advanced Generative AI Course**.
+This project was developed as part of the **ITI Advanced NVIDIA DLI Course**.
 
 ---
 
