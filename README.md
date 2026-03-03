@@ -23,13 +23,13 @@ https://shncrqwrrydsnregmg294x.streamlit.app/
 
 You can:
 
-Upload your own PDF/DOCX research paper
+- Upload your own PDF/DOCX research paper
 
-Ask domain-specific questions
+- Ask domain-specific questions
 
-View context-grounded answers
+- View context-grounded answers
 
-Generate structured summaries
+- Generate structured summaries
 
 ## 📖 Project Explanation
 
