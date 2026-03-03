@@ -6,7 +6,7 @@ This project was developed as part of the **ITI Advanced Generative AI Course**.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The ITI Research Assistant helps users understand research papers by combining semantic search with Large Language Models (LLMs).
 
@@ -14,7 +14,7 @@ Instead of answering from general knowledge, the system retrieves relevant infor
 
 ---
 
-🚀 Try It Yourself (Live Deployment)
+## Try It Yourself (Live Deployment)
 
 The application is publicly deployed on Streamlit Cloud, allowing instructors and reviewers to test the full RAG system without local setup.
 
@@ -31,7 +31,7 @@ You can:
 
 - Generate structured summaries
 
-## 📖 Project Explanation
+##  Project Explanation
 
 The system follows a Retrieval-Augmented Generation (RAG) pipeline:
 
@@ -58,7 +58,7 @@ The system follows a Retrieval-Augmented Generation (RAG) pipeline:
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Upload Research Papers (PDF / DOCX)
 - Semantic Search using Vector Database
@@ -71,7 +71,7 @@ The system follows a Retrieval-Augmented Generation (RAG) pipeline:
 
 ---
 
-## ⭐ Bonus Feature — Document Summarization
+##  Bonus Feature — Document Summarization
 
 A dedicated summarization button allows automatic summarization of uploaded research papers including:
 
@@ -80,7 +80,7 @@ A dedicated summarization button allows automatic summarization of uploaded rese
 - Key Findings
 - Main Contributions
 
-💬 How to Use
+## How to Use
 
 Upload a research paper.
 
@@ -104,7 +104,9 @@ LLM-based Question Answering
 
 Document Summarization
 
-🔮 Future Improvements
+---
+
+## Future Improvements
 
 Multi-document comparison
 
@@ -114,7 +116,9 @@ Section-based summarization
 
 Cloud deployment
 
-👨‍💻 Author
+---
+
+## 👨‍💻  Author
 
 Ali Mostafa
 
