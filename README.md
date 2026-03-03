@@ -16,13 +16,10 @@ Instead of answering from general knowledge, the system retrieves relevant infor
 
 ## Try It Yourself (Live Deployment)
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=streamlit)](https://shncrqwrrydsnregmg294x.streamlit.app/)
-
 The application is publicly deployed on Streamlit Cloud, allowing You to test the full RAG system without local setup.
 
 🔗 Live App:
-https://shncrqwrrydsnregmg294x.streamlit.app/
-
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=streamlit)](https://shncrqwrrydsnregmg294x.streamlit.app/)
 You can:
 
 - Upload your own PDF/DOCX research paper
