@@ -113,8 +113,6 @@ Conversation memory
 
 Section-based summarization
 
-Cloud deployment
-
 ---
 
 ## 👨‍💻  Author
