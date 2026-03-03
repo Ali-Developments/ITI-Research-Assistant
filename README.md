@@ -16,6 +16,7 @@ Instead of answering from general knowledge, the system retrieves relevant infor
 
 The application is publicly deployed on Streamlit Cloud, allowing instructors and reviewers to test the full RAG system without local setup.
 
+---
 🔗 Live App:
 https://shncrqwrrydsnregmg294x.streamlit.app/
 
