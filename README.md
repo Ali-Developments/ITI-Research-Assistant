@@ -12,7 +12,22 @@ The ITI Research Assistant helps users understand research papers by combining s
 
 Instead of answering from general knowledge, the system retrieves relevant information directly from uploaded documents and generates grounded responses based only on document content.
 
----
+🚀 Try It Yourself (Live Deployment)
+
+The application is publicly deployed on Streamlit Cloud, allowing instructors and reviewers to test the full RAG system without local setup.
+
+🔗 Live App:
+https://shncrqwrrydsnregmg294x.streamlit.app/
+
+You can:
+
+Upload your own PDF/DOCX research paper
+
+Ask domain-specific questions
+
+View context-grounded answers
+
+Generate structured summaries
 
 ## 📖 Project Explanation
 
